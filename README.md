@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><b>In constant pursuit of writing spaghetti code and falling behind to-do tasks.</b></p>
+<p align="center"><b>In constant pursuit of writing spaghetti code and falling behind to-do tasks 🐢.</b></p>
 
 ###
 
@@ -37,9 +37,13 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="30" alt="electron logo"  />
   <img width="1" />
+  <img src="https://img.shields.io/badge/Puppeteer-01D8A2?logo=puppeteer&logoColor=black&style=for-the-badge" height="30" alt="puppeteer logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="30" alt="selenium logo"  />
+  <img width="1" />
   <img src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=black&style=for-the-badge" height="30" alt="bulma logo"  />
   <img width="1" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/badge/Discord.JS-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  />
 </div>
