@@ -41,6 +41,8 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="25" alt="selenium logo"  />
   <img width="1" />
+  <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="25" alt="playwright logo"  />
+  <img width="1" />
   <img src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=black&style=for-the-badge" height="25" alt="bulma logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Discord.JS-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="25" alt="discord logo"  />
