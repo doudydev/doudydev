@@ -60,4 +60,8 @@
   <img src="https://streak-stats.demolab.com?user=doudydev&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=doudydev&color=yellow&style=for-the-badge)
+
 ###
